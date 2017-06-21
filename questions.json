@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Fait il beau aujourd'hui ?",
+    "answer":"Oui, il va faire très chaud !"
+  },
+  {
+    "question": "Tu aimes le bleu ?",
+    "answer" : "Oh que oui"
+  },
+  {
+    "question": "Burger ou sushi ?",
+    "answer" : "Les sushis c'est moins gras"
+  },
+  {
+    "question": "En quelle année sommes nous ?",
+    "answer" : "Nous sommes en 2017"
+  },
+  {
+    "question": "Quel est ton prof préféré ?",
+    "answer" : "C'est David Gayerie évidemment !"
+  },
+  {
+    "question": "Qui est le plus beau ?",
+    "answer" : "C'est mon prof préféré !"
+  }
+]
